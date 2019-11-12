@@ -10,4 +10,4 @@ Kaggle: https://www.kaggle.com/SangHChung
 
 Top 11%, score: 0.11616, rank: 560
 
-Classifier: Stack of elasticnet, lasso, 
+Classifier: Stack of ElasticNet, Lasso, GradientBoostingRegressor, and KernelRidge
